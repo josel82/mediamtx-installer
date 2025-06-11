@@ -9,7 +9,7 @@ This script will download, verify and uncompress MediaMTX binaries
 
 ## Make the script executable
 ```bash
-chmod +x install_mediamtx.sh
+chmod +x install.sh
 ```
 ---
 
